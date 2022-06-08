@@ -1,0 +1,13 @@
+255,0,0
+30,144,255
+0,128,0
+218,165,32
+NumPad7
+NumPad4
+NumPad5
+Add
+Subtract
+NumPad1
+NumPad9
+NumPad2
+NumPad3

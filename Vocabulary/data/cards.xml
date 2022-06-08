@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<list>
+  <word>
+    <singular>anmelden, anmeldet, angemeldet</singular>
+    <gender>0</gender>
+    <translation>to sign up, to register</translation>
+    <plural>an | melden (sich, für)</plural>
+    <example>Petra meldet sich morgen für einen Deutschkurs an</example>
+  </word>
+  <word>
+    <singular>Tisch</singular>
+    <gender>1</gender>
+    <translation>table</translation>
+    <plural>Tische</plural>
+  </word>
+  <word>
+    <singular>Kreuzung</singular>
+    <gender>2</gender>
+    <translation>crossroad, junction</translation>
+    <plural>Kreuzungen</plural>
+  </word>
+  <word>
+    <singular>Auto</singular>
+    <gender>3</gender>
+    <translation>car</translation>
+    <plural>Autos</plural>
+  </word>
+  <word>
+    <singular>Eltern</singular>
+    <gender>4</gender>
+    <translation>parents</translation>
+  </word>
+</list>
