@@ -1,5 +1,6 @@
-[English](#english) [Deutsch](#deutsch)
-
+[English](#english)\
+[Deutsch](#deutsch)\
+[Screenshots / Bildschrimfotos](#screenshots--bildschrimfotos)
 
 # English
 
@@ -21,13 +22,6 @@ public static readonly string OptionsPath = "..\\..\\..\\data\\options.txt";
 There are 2 types of studying features in the program. The first feature gives you random unstudied flashcards or old flashcards in order to study. The second feature gives you an option to review the flashcards that you studied in specific date(s)
 
 While adding a new word to the program, the gender of the word affects which part(s) should be read by the text-to-speech feature. If the word has no gender then the text-to-speech feature only reads the singular form of the word. If the word has a gender then it reads the both singular and plural forms of the word
-
-## Screenshots
-![01](https://raw.githubusercontent.com/cemalaydeniz/vocabulary/main/Screenshots/01.png)\
-![02](https://raw.githubusercontent.com/cemalaydeniz/vocabulary/main/Screenshots/02.png)\
-![03](https://raw.githubusercontent.com/cemalaydeniz/vocabulary/main/Screenshots/03.png)\
-![04](https://raw.githubusercontent.com/cemalaydeniz/vocabulary/main/Screenshots/04.png)\
-![05](https://raw.githubusercontent.com/cemalaydeniz/vocabulary/main/Screenshots/05.png)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
@@ -54,12 +48,12 @@ Es gibt 2 Typen von Lernfunktionen in der Anwendung. Die erste Funktion gibt Ihn
 
 Beim Hinzufügen eine neues Wort zu die Anwendung, beeinflusst das Geschlecht von dem Wort, welchen Teil von die Text-to-Speech Funktion gelesen werden soll. Wenn das Wort kein Geschlecht hat, liest die Text-to-Speech Funktion nur die Singularform von dem Wort. Wenn das Wort ein Geschlecht hat, liest sie beide die Singularform und Pluralform von dem Wort
 
-## Bildschrimfotos
+## Lienz
+Das Projekt wird unter der MIT Lienz lizenziert - sehen Sie die LICENSE.md Datei für Details
+
+# Screenshots / Bildschrimfotos
 ![01](https://raw.githubusercontent.com/cemalaydeniz/vocabulary/main/Screenshots/01.png)\
 ![02](https://raw.githubusercontent.com/cemalaydeniz/vocabulary/main/Screenshots/02.png)\
 ![03](https://raw.githubusercontent.com/cemalaydeniz/vocabulary/main/Screenshots/03.png)\
 ![04](https://raw.githubusercontent.com/cemalaydeniz/vocabulary/main/Screenshots/04.png)\
 ![05](https://raw.githubusercontent.com/cemalaydeniz/vocabulary/main/Screenshots/05.png)
-
-# Lienz
-Das Projekt wird unter der MIT Lienz lizenziert - sehen Sie die LICENSE.md Datei für Details
