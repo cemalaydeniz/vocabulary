@@ -49,7 +49,7 @@ Es gibt 2 Typen von Lernfunktionen in der Application. Die erste Funktion gibt I
 Beim Hinzufügen eines neuen Wort zur Application beeinflusst das Geschlecht vom Wort, welcher Teil durch der Text-to-Speech-Funktion gelesen wird. Wenn das Wort kein Geschlecht hat, liest die Text-to-Speech Funktion nur die Singularform vom Wort. Wenn das Wort ein Geschlecht hat, liest sie beide die Singular- und Pluralform vom Wort
 
 ## Lienz
-Das Projekt wird unter der MIT-Lienz lizenziert - sehen Sie die LICENSE.md Datei für Details
+Das Projekt wird unter der MIT-Lizenz lizenziert - sehen Sie die LICENSE.md Datei für Details
 
 # Screenshots / Bildschrimfotos
 ![01](https://raw.githubusercontent.com/cemalaydeniz/vocabulary/main/Screenshots/01.png)\
