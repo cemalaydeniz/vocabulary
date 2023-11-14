@@ -30,26 +30,26 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 # Deutsch
 
 ## Deutscher Wortschatz
-Das ist eine Windows Form App, die mit C# erstellt wurde. Die Anwendung ist zum Lernen neuer deutschen Wörter. Sie hat Textfärbung (je nach dem Geschlecht von Nomen) und Text-to-Speech Funktionen
+  Das ist eine Windows-Form-App, die mittels C# erstellt wurde. Die Anwendung ist zum Lernen neuer deutscher Wörter. Sie hat eine Textfarbeneigenschaft (je nach dem Geschlecht von Nomen) und eine Text-to-Speech-Funktion
 
 ## Erste Schritte
 ### Abhängigkeiten
-- Die Anwendung wurde mit .Net 5.0 erstellt. Wenn Sie .Net 3.1 oder eine ältere Version verwenden, um das Projekt zu kompilieren, stellen Sie sicher, dass Sie die Dateiwege in der Klasse `StringLibrary` ändern
+- Die Application wurde mit .Net 5.0 erstellt. Wenn Sie .Net 3.1 oder eine ältere Version verwenden, um das Projekt zu kompilieren, stellen Sie sicher, dass Sie die Dateipfad in der Klasse `StringLibrary` ändern
 
 ```csharp
 public static readonly string CardsPath = "..\\..\\..\\data\\cards.xml";
 public static readonly string OptionsPath = "..\\..\\..\\data\\options.txt";
 ```
 
-- Um die Text-to-Speech Funktion zu verwenden, muss der Computer, auf dem die Anwendung läuft, deutsche Sprache haben
+- Um die Text-to-Speech-Funktion zu verwenden, muss der Computer, auf dem die Application läuft, die deutsche Sprache unterstützen
 
 ### Wie zu Verwenden
-Es gibt 2 Typen von Lernfunktionen in der Anwendung. Die erste Funktion gibt Ihnen zufällige ungelernte Karteikarten oder alte Karteikarten zu lernen. Die zweite Funktion gibt Ihnen eine Möglichkeit, um die Karteikarten, die Sie in bestimmem Datum/Daten gelernt haben, zu lernen
+Es gibt 2 Typen von Lernfunktionen in der Application. Die erste Funktion gibt Ihnen zufällige ungelernte Karteikarten oder alte Karteikarten zu lernen. Die zweite Funktion gibt Ihnen eine Möglichkeit, um die Karteikarten zu lernen, die Sie in bestimmen Daten gelernt haben.
 
-Beim Hinzufügen eine neues Wort zu die Anwendung, beeinflusst das Geschlecht von dem Wort, welchen Teil von die Text-to-Speech Funktion gelesen werden soll. Wenn das Wort kein Geschlecht hat, liest die Text-to-Speech Funktion nur die Singularform von dem Wort. Wenn das Wort ein Geschlecht hat, liest sie beide die Singularform und Pluralform von dem Wort
+Beim Hinzufügen eines neuen Wort zur Application beeinflusst das Geschlecht vom Wort, welcher Teil durch der Text-to-Speech-Funktion gelesen wird. Wenn das Wort kein Geschlecht hat, liest die Text-to-Speech Funktion nur die Singularform vom Wort. Wenn das Wort ein Geschlecht hat, liest sie beide die Singular- und Pluralform vom Wort
 
 ## Lienz
-Das Projekt wird unter der MIT Lienz lizenziert - sehen Sie die LICENSE.md Datei für Details
+Das Projekt wird unter der MIT-Lienz lizenziert - sehen Sie die LICENSE.md Datei für Details
 
 # Screenshots / Bildschrimfotos
 ![01](https://raw.githubusercontent.com/cemalaydeniz/vocabulary/main/Screenshots/01.png)\
