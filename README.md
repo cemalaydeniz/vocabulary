@@ -1,9 +1,3 @@
-[English](#english)\
-[Deutsch](#deutsch)\
-[Screenshots / Bildschrimfotos](#screenshots--bildschrimfotos)
-
-# English
-
 ## German Vocabulary
 This is a Windows Form App created with C#. The program is for learning new German words and studying them. It has text coloring (depending on the gender of nouns) and text-to-speech features
 
@@ -26,32 +20,7 @@ While adding a new word to the program, the gender of the word affects which par
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-
-# Deutsch
-
-## Deutscher Wortschatz
-  Das ist eine Windows-Form-App, die mittels C# erstellt wurde. Die Anwendung ist zum Lernen neuer deutscher Wörter. Sie hat eine Textfarbeneigenschaft (je nach dem Geschlecht von Nomen) und eine Text-to-Speech-Funktion
-
-## Erste Schritte
-### Abhängigkeiten
-- Die Application wurde mit .Net 5.0 erstellt. Wenn Sie .Net 3.1 oder eine ältere Version verwenden, um das Projekt zu kompilieren, stellen Sie sicher, dass Sie die Dateipfad in der Klasse `StringLibrary` ändern
-
-```csharp
-public static readonly string CardsPath = "..\\..\\..\\data\\cards.xml";
-public static readonly string OptionsPath = "..\\..\\..\\data\\options.txt";
-```
-
-- Um die Text-to-Speech-Funktion zu verwenden, muss der Computer, auf dem die Application läuft, die deutsche Sprache unterstützen
-
-### Wie zu Verwenden
-Es gibt 2 Typen von Lernfunktionen in der Application. Die erste Funktion gibt Ihnen zufällige ungelernte Karteikarten oder alte Karteikarten zu lernen. Die zweite Funktion gibt Ihnen eine Möglichkeit, um die Karteikarten zu lernen, die Sie in bestimmen Daten gelernt haben.
-
-Beim Hinzufügen eines neuen Wort zur Application beeinflusst das Geschlecht vom Wort, welcher Teil durch der Text-to-Speech-Funktion gelesen wird. Wenn das Wort kein Geschlecht hat, liest die Text-to-Speech Funktion nur die Singularform vom Wort. Wenn das Wort ein Geschlecht hat, liest sie beide die Singular- und Pluralform vom Wort
-
-## Lienz
-Das Projekt wird unter der MIT-Lizenz lizenziert - sehen Sie die LICENSE.md Datei für Details
-
-# Screenshots / Bildschrimfotos
+# Screenshots
 ![01](https://raw.githubusercontent.com/cemalaydeniz/vocabulary/main/Screenshots/01.png)\
 ![02](https://raw.githubusercontent.com/cemalaydeniz/vocabulary/main/Screenshots/02.png)\
 ![03](https://raw.githubusercontent.com/cemalaydeniz/vocabulary/main/Screenshots/03.png)\
