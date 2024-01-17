@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Win%20Form-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+
 ## German Vocabulary
 This is a Windows Form App created with C#. The program is for learning new German words and studying them. It has text coloring (depending on the gender of nouns) and text-to-speech features
 
