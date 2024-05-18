@@ -1,4 +1,7 @@
-<img src="https://img.shields.io/badge/Win%20Form-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Win%20Form-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 
 ## German Vocabulary
 This is a Windows Form App for learning new German words and studying them.
